@@ -1,3 +1,9 @@
+### Install
+clone project
+
+run flutter pub get
+
+### Structure
 ```
 .
 ├── README.md
@@ -52,3 +58,4 @@
     ├── flutter
     └── runner
 ```
+
